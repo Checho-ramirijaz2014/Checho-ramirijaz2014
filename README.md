@@ -5,12 +5,12 @@ Hi, I'm Sergio
 
 I'm just another data scientist trying to get into Academia and research stuff. Also very into History, linguistics (Science in general) and Music.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Checho-ramirijaz2014's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Doing my bachelor on data science at PUC Chile.
-- 🌐 Also doing a lot of research and collaboration related to GIS and climate change.
+- Doing my bachelor on data science at PUC Chile.
+- Also doing a lot of research and collaboration related to GIS and climate change.
 - ✍️ 
 
 ## Tech Stack
