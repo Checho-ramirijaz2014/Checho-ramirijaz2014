@@ -5,7 +5,7 @@ Hi, I'm Sergio
 
 I'm just another data scientist trying to get into Academia and research stuff. Also very into History, linguistics (Science in general) and Music.
 
-![Checho-ramirijaz2014's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Checho-ramirijaz2014's Stats](https://github-readme-stats.vercel.app/api?username=Checho-ramirijaz2014&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me
 
@@ -16,7 +16,7 @@ I'm just another data scientist trying to get into Academia and research stuff. 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=,git,bash,c,d3,docker,latex,mint,md,neovim,postgres,py,pytorch,r,sklearn,)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - 🚀 Learning about python package management
   - Doing research about
