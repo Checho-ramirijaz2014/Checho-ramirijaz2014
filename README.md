@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <!--
-**Checho-ramirijaz2014/Checho-ramirijaz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Checho-ramirijaz2014/Checho-ramirijaz2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hi, I'm Sergio
+Hi, I'm Sergio
 
 I'm just another data scientist trying to get into Academia and research stuff. Also very into History, linguistics (Science in general) and Music.
 
