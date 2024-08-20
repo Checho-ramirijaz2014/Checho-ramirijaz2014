@@ -3,34 +3,22 @@
 
 Hi, I'm Sergio
 
-I'm just another data scientist trying to get into Academia and research stuff. Also very into History, linguistics (Science in general) and Music.
+I'm just another data scientist trying to get into Academia and research stuff. I'm also into History, linguistics, Science in general and Music.
 
-![Checho-ramirijaz2014's Stats](https://github-readme-stats.vercel.app/api?username=Checho-ramirijaz2014&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Checho-ramirijaz2014&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&custom_title=Sergio%27s%20stats%20on%20Github)
 
-## About Me
+## Currently I'm...
 
-- Doing my bachelor on data science at PUC Chile.
-- Also doing a lot of research and collaboration related to GIS and climate change.
-- ✍️ 
+  - Learning about python package management
+  - Doing research about MOFS in chemistry and 
+  - learning about machine learning models, it's metrics and the math behind it.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=,git,bash,c,d3,docker,latex,mint,md,neovim,postgres,py,pytorch,r,sklearn,)](https://skillicons.dev)
+ ## Achievements
 
-## Currently Exploring
-
-- 🚀 Learning about python package management
-  - Doing research about
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 First place In Dataton Fach 2024 Drought Analysis. Part of the Team "Rodofuentes Javiticos"
+- First place In Dataton Fach 2024 Drought Analysis. Part of the Team "Rodofuentes Javiticos"
 
 
-## 📬 Links
+## Links
 
-- [Linkedin](linkedin.com/in/sergio-ramírez-rodríguez-05443a299)
+- [Linkedin](https://www.linkedin.com/in/sergio-ram%C3%ADrez-rodr%C3%ADguez-05443a299/)  
 
